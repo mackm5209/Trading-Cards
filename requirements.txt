@@ -1,5 +1,0 @@
-card-pipeline-app/
-├── app.py               <-- Streamlit app
-├── card_pipeline.py     <-- your existing code
-├── requirements.txt     <-- list of Python packages
-└── README.md            <-- optional
